@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://vrproductions.in/</loc><lastmod>2025-05-26</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://vrproductions.in/services.html</loc><lastmod>2025-05-26</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://vrproductions.in/gallery.html</loc><lastmod>2025-05-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://vrproductions.in/about.html</loc><lastmod>2025-05-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://vrproductions.in/testimonials.html</loc><lastmod>2025-05-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://vrproductions.in/contact.html</loc><lastmod>2025-05-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://vrproductions.in/event-planner-chandigarh.html</loc><lastmod>2025-05-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://vrproductions.in/wedding-planner-chandigarh.html</loc><lastmod>2025-05-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://vrproductions.in/wedding-planner-mohali.html</loc><lastmod>2025-05-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://vrproductions.in/corporate-events-tricity.html</loc><lastmod>2025-05-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vrproductions.in/</loc><lastmod>2025-05-27</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://vrproductions.in/services.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://vrproductions.in/gallery.html</loc><lastmod>2025-05-27</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://vrproductions.in/contact.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://vrproductions.in/about.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vrproductions.in/testimonials.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vrproductions.in/blog.html</loc><lastmod>2025-05-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <!-- SEO Landing Pages -->
+  <url><loc>https://vrproductions.in/event-planner-chandigarh.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://vrproductions.in/wedding-planner-chandigarh.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://vrproductions.in/wedding-planner-mohali.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://vrproductions.in/corporate-events-tricity.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://vrproductions.in/birthday-party-planner-chandigarh.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://vrproductions.in/dj-services-chandigarh.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vrproductions.in/celebrity-booking-chandigarh.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vrproductions.in/event-management-panchkula.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- Blog Articles -->
+  <url><loc>https://vrproductions.in/best-wedding-planner-chandigarh.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://vrproductions.in/corporate-event-planner-chandigarh.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vrproductions.in/wedding-decor-trends-chandigarh.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vrproductions.in/sangeet-night-planner-chandigarh.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vrproductions.in/celebrity-booking-tricity.html</loc><lastmod>2025-05-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
 </urlset>
