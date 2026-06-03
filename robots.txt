@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /404.html
 
-Sitemap: https://vrproductions.in/sitemap.xml
+Sitemap: https://vrproductions09-dot.github.io/VR-PRODUCTIONS/sitemap.xml
