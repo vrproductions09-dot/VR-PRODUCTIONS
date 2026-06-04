@@ -1,240 +1,484 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/services.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/gallery.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/contact.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/about.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/testimonials.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
+
+  <!-- Local SEO / Service Pages -->
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/event-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/wedding-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/best-wedding-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/wedding-planner-mohali.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/wedding-planner-panchkula.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/wedding-decor-trends-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/sangeet-night-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/event-management-mohali.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/event-management-panchkula.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/corporate-event-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/corporate-events-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/birthday-party-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/birthday-party-planner-mohali.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/dj-services-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/dj-services-mohali.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/celebrity-booking-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/celebrity-booking-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
   </url>
+
+  <!-- Blog Articles -->
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-artist-management-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-award-night-event-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-bachelorette-party-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-best-wedding-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-birthday-event-organizer-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-celebrity-booking-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-charity-fundraiser-events-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-college-fest-management-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-concert-event-management-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-conference-management-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-corporate-event-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-corporate-team-building-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-destination-wedding-planner-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-dj-night-event-management-mohali.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-dj-services-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-dussehra-diwali-event-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-event-catering-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-event-management-budget-tips.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-event-management-company-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-event-photography-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-event-planning-mistakes-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-event-venues-chandigarh-guide.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-event-venues-mohali-guide.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-fashion-show-event-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-haldi-ceremony-decoration-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-indian-wedding-planning-tips.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-kids-birthday-party-planner-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-laser-show-events-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-lighting-design-events-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-luxury-event-decor-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-luxury-wedding-planner-mohali.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-mandap-design-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-mehendi-ceremony-planning-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-new-year-event-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-outdoor-event-planning-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-pre-wedding-shoot-locations-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-product-launch-event-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-punjabi-wedding-traditions.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-pyrotechnics-events-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-reception-decoration-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-ring-ceremony-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-sangeet-night-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-sikh-wedding-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-social-media-event-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-sound-lighting-services-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-sound-system-hire-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-stage-production-company-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-surprise-birthday-party-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-tricity-event-industry-2025.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-vr-productions-about-us.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-wedding-anniversary-party-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-wedding-decor-trends-2025-tricity.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-wedding-planner-panchkula.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-wedding-planning-checklist-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
     <loc>https://vrproductions09-dot.github.io/VR-PRODUCTIONS/blog-why-hire-event-planner-chandigarh.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
   </url>
+
 </urlset>
