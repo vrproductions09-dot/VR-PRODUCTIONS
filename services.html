@@ -3,14 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Event Management Services Chandigarh | VR Productions | Wedding, Corporate, Celebrity</title>
-<meta name="description" content="VR Productions offers complete event management services in Chandigarh — wedding planning, corporate events, celebrity booking, DJ services, décor, photography and more across Tricity.">
-<meta name="keywords" content="event management services chandigarh, wedding planner chandigarh, corporate event organizer tricity, celebrity booking mohali, DJ services chandigarh, birthday party planner panchkula">
+<title>Event Management Services Chandigarh | The VR Production | Wedding, Corporate, Concerts</title>
+<meta name="description" content="The VR Production offers complete event management services in Chandigarh, Mohali & Panchkula — wedding planning, corporate events, concerts, birthday parties, celebrity booking and more across Tricity.">
+<meta name="keywords" content="event management services chandigarh, wedding planner chandigarh, corporate event organizer tricity, celebrity booking mohali, DJ services chandigarh, birthday party planner panchkula, concert management chandigarh, event planner mohali, best event company chandigarh">
 <link rel="canonical" href="https://vrproductions09-dot.github.io/VR-PRODUCTIONS/services.html">
+<!-- Open Graph -->
+<meta property="og:title" content="Event Management Services | The VR Production – Chandigarh">
+<meta property="og:description" content="Premium event management in Chandigarh, Mohali & Panchkula. Weddings, corporate events, concerts, birthday parties and celebrity bookings.">
+<meta property="og:url" content="https://vrproductions09-dot.github.io/VR-PRODUCTIONS/services.html">
+<meta property="og:type" content="website">
+<meta name="geo.placename" content="Chandigarh">
+<meta name="geo.region" content="IN-CH">
+<meta name="geo.position" content="30.7333;76.7794">
+<!-- Schema -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"EventPlanner","name":"The VR Production","description":"Complete event management services in Chandigarh, Mohali and Panchkula — weddings, corporate events, concerts, birthday parties, celebrity bookings.","telephone":"+91-8837810243","url":"https://vrproductions09-dot.github.io/VR-PRODUCTIONS/","address":{"@type":"PostalAddress","addressLocality":"Chandigarh","addressRegion":"Chandigarh","addressCountry":"IN"},"areaServed":["Chandigarh","Mohali","Panchkula","Tricity"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Event Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Wedding Planning Chandigarh"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Corporate Event Management Tricity"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Concert Production Chandigarh"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Birthday Party Planning Chandigarh"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Celebrity Booking Chandigarh"}}]}}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"EventPlanner","name":"VR Productions","description":"Complete event management services in Chandigarh, Mohali and Panchkula","telephone":"+91-8837810243","address":{"@type":"PostalAddress","addressLocality":"Chandigarh","addressCountry":"IN"}}</script>
 <style>
 :root{--gold:#C9A84C;--gold-light:#E2C47A;--gold-dark:#A8872E;--black:#0A0A0A;--dark:#111111;--dark2:#1A1A1A;--dark3:#222222;--white:#FFFFFF;--gray:#888888;--gray-light:#CCCCCC;--border:rgba(201,168,76,0.2);--font-display:'Cormorant Garamond',Georgia,serif;--font-body:'DM Sans',sans-serif;--max-width:1280px;--radius:2px;--transition:0.35s cubic-bezier(0.4,0,0.2,1)}
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -48,24 +57,25 @@ section{padding:90px 0}@media(max-width:768px){section{padding:60px 0}}
 .service-full:nth-child(even){background:var(--dark2)}
 .service-full-grid{display:grid;grid-template-columns:1fr 1fr;gap:80px;align-items:center}
 @media(max-width:768px){.service-full-grid{grid-template-columns:1fr;gap:48px}}
-.service-visual{background:var(--dark3);border:1px solid var(--border);aspect-ratio:4/3;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:16px;font-size:5rem;position:relative;overflow:hidden}
-.service-visual::before{content:'';position:absolute;inset:0;background:linear-gradient(135deg,rgba(201,168,76,0.05),transparent)}
+/* IMAGE PANELS */
+.service-img{position:relative;overflow:hidden;border:1px solid var(--border);aspect-ratio:4/3}
+.service-img img{width:100%;height:100%;object-fit:cover;transition:transform 0.6s ease;display:block}
+.service-img:hover img{transform:scale(1.04)}
+.service-img-overlay{position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,0.55),transparent);pointer-events:none}
+.service-img-label{position:absolute;bottom:20px;left:20px;font-family:var(--font-body);font-size:0.72rem;letter-spacing:4px;text-transform:uppercase;color:var(--gold);background:rgba(0,0,0,0.6);padding:6px 14px;border:1px solid var(--border)}
 .service-features{display:flex;flex-direction:column;gap:12px;margin-top:28px}
 .service-feature{display:flex;align-items:center;gap:12px;font-size:0.9rem;color:var(--gray-light)}
 .service-feature::before{content:'';width:4px;height:4px;border-radius:50%;background:var(--gold);flex-shrink:0}
-.price-from{display:inline-block;margin-top:24px;font-family:var(--font-display);font-size:1.4rem;color:var(--gold)}
-/* PACKAGES */
-.packages{background:var(--black);padding:100px 0}
-.packages-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:24px;margin-top:60px}
-.package-card{border:1px solid var(--border);padding:40px 32px;border-radius:var(--radius);transition:var(--transition);position:relative}
-.package-card:hover{border-color:rgba(201,168,76,0.5);transform:translateY(-4px)}
-.package-card.featured{border-color:var(--gold);background:rgba(201,168,76,0.04)}
-.package-badge{position:absolute;top:-12px;right:24px;background:var(--gold);color:var(--black);font-size:0.7rem;letter-spacing:2px;text-transform:uppercase;padding:4px 12px;border-radius:20px;font-weight:600}
-.package-price{font-family:var(--font-display);font-size:2.5rem;color:var(--gold);font-weight:700;margin:12px 0}
-.package-desc{font-size:0.875rem;color:var(--gray);margin-bottom:20px}
-.package-features{list-style:none;display:flex;flex-direction:column;gap:10px}
-.package-features li{font-size:0.875rem;color:var(--gray-light);display:flex;align-items:center;gap:10px}
-.package-features li::before{content:'✓';color:var(--gold);font-size:0.8rem;flex-shrink:0}
+/* MINI GRID */
+.mini-services-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:0;background:var(--border);border:1px solid var(--border);margin-top:60px}
+.mini-card{background:var(--dark2);padding:0;overflow:hidden;border:1px solid transparent;transition:var(--transition)}
+.mini-card:hover{border-color:var(--gold)}
+.mini-card-img{width:100%;aspect-ratio:16/9;overflow:hidden}
+.mini-card-img img{width:100%;height:100%;object-fit:cover;transition:transform 0.5s ease}
+.mini-card:hover .mini-card-img img{transform:scale(1.06)}
+.mini-card-body{padding:28px 28px 32px}
+.mini-card-body h3{font-size:1.25rem;margin-bottom:8px}
+.mini-card-body p{font-size:0.875rem;color:var(--gray)}
 /* FOOTER */
 footer{background:var(--black);border-top:1px solid var(--border);padding:80px 0 40px}
 .footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:48px;padding-bottom:60px;border-bottom:1px solid var(--border)}
@@ -84,13 +94,32 @@ footer{background:var(--black);border-top:1px solid var(--border);padding:80px 0
 .cta-band h2{color:var(--black);font-size:clamp(2rem,4vw,3rem);margin-bottom:12px}
 .cta-band p{color:rgba(0,0,0,0.7);font-size:1.1rem;margin-bottom:36px}
 .cta-actions{display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
+/* UNSPLASH image placeholders via picsum seeded */
 </style>
 </head>
 <body>
 <nav class="navbar" id="navbar">
   <div class="container">
     <a href="index.html" class="nav-logo">
-      <svg width="200" height="46" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg"><circle cx="90" cy="80" r="52" fill="none" stroke="#C9A84C" stroke-width="1.5"/><circle cx="90" cy="28" r="2.5" fill="#C9A84C"/><circle cx="90" cy="132" r="2.5" fill="#C9A84C"/><circle cx="38" cy="80" r="2.5" fill="#C9A84C"/><circle cx="142" cy="80" r="2.5" fill="#C9A84C"/><text x="90" y="92" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#C9A84C" letter-spacing="2">VR</text><line x1="168" y1="30" x2="168" y2="130" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/><text x="192" y="68" font-family="Georgia,serif" font-size="32" font-weight="700" fill="#FFFFFF" letter-spacing="4">PRODUCTIONS</text><line x1="192" y1="80" x2="560" y2="80" stroke="#C9A84C" stroke-width="0.8" opacity="0.6"/><text x="192" y="104" font-family="Arial,sans-serif" font-size="11" fill="#C9A84C" letter-spacing="5" opacity="0.9">EVENT PLANNING &amp; PRODUCTION · TRICITY</text></svg>
+      <svg width="220" height="60" viewBox="0 0 520 140" xmlns="http://www.w3.org/2000/svg">
+        <g transform="translate(50,70) scale(0.42)">
+          <path d="M0,-88 C-18,-65 -18,-38 0,-20 C18,-38 18,-65 0,-88Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+          <path d="M0,88 C-18,65 -18,38 0,20 C18,38 18,65 0,88Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+          <path d="M-88,0 C-65,-18 -38,-18 -20,0 C-38,18 -65,18 -88,0Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+          <path d="M88,0 C65,-18 38,-18 20,0 C38,18 65,18 88,0Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+          <path d="M-62,-62 C-52,-36 -36,-22 -14,-14 C-22,-36 -36,-52 -62,-62Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+          <path d="M62,62 C52,36 36,22 14,14 C22,36 36,52 62,62Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+          <path d="M62,-62 C36,-52 22,-36 14,-14 C36,-22 52,-36 62,-62Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+          <path d="M-62,62 C-36,52 -22,36 -14,14 C-36,22 -52,36 -62,62Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+          <circle cx="0" cy="0" r="16" fill="none" stroke="#C9A84C" stroke-width="2.5"/>
+        </g>
+        <line x1="118" y1="12" x2="118" y2="128" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/>
+        <line x1="130" y1="30" x2="158" y2="30" stroke="#C9A84C" stroke-width="0.8" opacity="0.7"/>
+        <text x="205" y="35" text-anchor="middle" font-family="Georgia,serif" font-size="12" fill="#C9A84C" letter-spacing="5">THE</text>
+        <line x1="252" y1="30" x2="510" y2="30" stroke="#C9A84C" stroke-width="0.8" opacity="0.7"/>
+        <text x="320" y="98" text-anchor="middle" font-family="Georgia,serif" font-size="70" font-weight="700" fill="#C9A84C" letter-spacing="-2">VR</text>
+        <text x="320" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="11.5" fill="#C9A84C" letter-spacing="7">PRODUCTION</text>
+      </svg>
     </a>
     <ul class="nav-links" id="navLinks">
       <li><a href="index.html">Home</a></li>
@@ -114,38 +143,38 @@ footer{background:var(--black);border-top:1px solid var(--border);padding:80px 0
   </div>
 </div>
 
-<!-- WEDDINGS -->
+<!-- 01 · WEDDINGS -->
 <div id="weddings" class="service-full">
   <div class="container">
     <div class="service-full-grid">
       <div class="reveal">
         <span class="section-label">01 · Weddings</span>
         <div class="gold-line"></div>
-        <h2>Wedding Planning & Management</h2>
+        <h2>Wedding Planning &amp; Management</h2>
         <p style="margin-top:20px">Chandigarh's most sought-after wedding planners. We manage every ceremony — roka, mehendi, haldi, sangeet, baraat and reception — with meticulous attention to every detail. Punjabi weddings, destination weddings, intimate nikahs and grand receptions.</p>
         <div class="service-features">
-          <div class="service-feature">Full event timeline & vendor coordination</div>
-          <div class="service-feature">Mandap, décor & floral design</div>
-          <div class="service-feature">Catering & hospitality management</div>
-          <div class="service-feature">Photography & cinematography</div>
-          <div class="service-feature">DJ, dhol & live music arrangements</div>
-          <div class="service-feature">Accommodation & logistics</div>
+          <div class="service-feature">Full event timeline &amp; vendor coordination</div>
+          <div class="service-feature">Mandap, décor &amp; floral design</div>
+          <div class="service-feature">Catering &amp; hospitality management</div>
+          <div class="service-feature">Photography &amp; cinematography</div>
+          <div class="service-feature">DJ, dhol &amp; live music arrangements</div>
+          <div class="service-feature">Accommodation &amp; logistics</div>
         </div>
         <div style="display:flex;gap:16px;flex-wrap:wrap;margin-top:32px">
           <a href="contact.html" class="btn btn-primary">Plan My Wedding</a>
           <a href="wedding-planner-chandigarh.html" class="btn btn-ghost">Learn More</a>
         </div>
       </div>
-      <div class="service-visual reveal reveal-delay-2">
-        <span style="font-size:5rem">💍</span>
-        <span style="font-size:0.8rem;letter-spacing:3px;text-transform:uppercase;color:var(--gold)">Wedding Events</span>
-        <span style="font-size:0.75rem;color:var(--gray);text-align:center;padding:0 20px">Upload your wedding event photos here</span>
+      <div class="service-img reveal reveal-delay-2">
+        <img src="https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&q=80&auto=format&fit=crop" alt="Wedding planning and decoration in Chandigarh by The VR Production" loading="lazy">
+        <div class="service-img-overlay"></div>
+        <span class="service-img-label">Wedding Events</span>
       </div>
     </div>
   </div>
 </div>
 
-<!-- CORPORATE -->
+<!-- 02 · CORPORATE -->
 <div id="corporate" class="service-full">
   <div class="container">
     <div class="service-full-grid" style="direction:rtl">
@@ -155,99 +184,75 @@ footer{background:var(--black);border-top:1px solid var(--border);padding:80px 0
         <h2>Corporate Event Management</h2>
         <p style="margin-top:20px">Professional corporate event management in Chandigarh and Mohali. We specialize in product launches, annual days, award nights, conferences, seminars, dealer meets and team-building activities for companies of all sizes.</p>
         <div class="service-features">
-          <div class="service-feature">Product launches & brand activations</div>
-          <div class="service-feature">Conferences & seminars (50–5000 pax)</div>
-          <div class="service-feature">Award nights & recognition events</div>
-          <div class="service-feature">Team building & offsites</div>
-          <div class="service-feature">Trade shows & exhibitions</div>
-          <div class="service-feature">AV production & staging</div>
+          <div class="service-feature">Product launches &amp; brand activations</div>
+          <div class="service-feature">Conferences &amp; seminars (50–5000 pax)</div>
+          <div class="service-feature">Award nights &amp; recognition events</div>
+          <div class="service-feature">Team building &amp; offsites</div>
+          <div class="service-feature">Trade shows &amp; exhibitions</div>
+          <div class="service-feature">AV production &amp; staging</div>
         </div>
         <a href="contact.html" class="btn btn-primary" style="margin-top:32px">Get Corporate Quote</a>
       </div>
-      <div class="service-visual reveal" style="direction:ltr">
-        <span style="font-size:5rem">🏢</span>
-        <span style="font-size:0.8rem;letter-spacing:3px;text-transform:uppercase;color:var(--gold)">Corporate Events</span>
+      <div class="service-img reveal" style="direction:ltr">
+        <img src="https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&q=80&auto=format&fit=crop" alt="Corporate event management Chandigarh Mohali Tricity" loading="lazy">
+        <div class="service-img-overlay"></div>
+        <span class="service-img-label">Corporate Events</span>
       </div>
     </div>
   </div>
 </div>
 
-<!-- CELEBRITY -->
-<div id="celebrity" class="service-full">
-  <div class="container">
-    <div class="service-full-grid">
-      <div class="reveal">
-        <span class="section-label">03 · Celebrity</span>
-        <div class="gold-line"></div>
-        <h2>Celebrity Booking & Artist Management</h2>
-        <p style="margin-top:20px">Make your event unforgettable with Bollywood celebrities, musicians, stand-up comedians, sports personalities and influencers. We handle the entire booking, rider management, travel and on-day coordination.</p>
-        <div class="service-features">
-          <div class="service-feature">Bollywood artist & musician bookings</div>
-          <div class="service-feature">Stand-up comedians & anchors</div>
-          <div class="service-feature">Sports personalities & brand ambassadors</div>
-          <div class="service-feature">Social media influencer appearances</div>
-          <div class="service-feature">Contract negotiation & rider management</div>
-          <div class="service-feature">Security & logistics coordination</div>
-        </div>
-        <a href="contact.html" class="btn btn-primary" style="margin-top:32px">Book a Celebrity</a>
-      </div>
-      <div class="service-visual reveal reveal-delay-2">
-        <span style="font-size:5rem">⭐</span>
-        <span style="font-size:0.8rem;letter-spacing:3px;text-transform:uppercase;color:var(--gold)">Celebrity Events</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- BIRTHDAY -->
-<div id="birthday" class="service-full">
-  <div class="container">
-    <div class="service-full-grid" style="direction:rtl">
-      <div class="reveal" style="direction:ltr">
-        <span class="section-label">04 · Birthdays & Private Parties</span>
-        <div class="gold-line"></div>
-        <h2>Birthday & Private Party Planning</h2>
-        <p style="margin-top:20px">Spectacular birthday celebrations, surprise parties and private gatherings in Chandigarh and Tricity. From kids' themed birthdays to milestone 50th celebrations — every detail planned perfectly.</p>
-        <div class="service-features">
-          <div class="service-feature">Themed décor & installations</div>
-          <div class="service-feature">Kids' birthday parties with entertainment</div>
-          <div class="service-feature">Surprise party planning & execution</div>
-          <div class="service-feature">Live music, DJ & entertainment</div>
-          <div class="service-feature">Custom cakes & catering</div>
-          <div class="service-feature">Venue sourcing in Chandigarh</div>
-        </div>
-        <a href="contact.html" class="btn btn-primary" style="margin-top:32px">Plan My Party</a>
-      </div>
-      <div class="service-visual reveal" style="direction:ltr">
-        <span style="font-size:5rem">🎂</span>
-        <span style="font-size:0.8rem;letter-spacing:3px;text-transform:uppercase;color:var(--gold)">Birthday Events</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- CONCERTS -->
+<!-- 03 · CONCERTS -->
 <div id="concerts" class="service-full">
   <div class="container">
     <div class="service-full-grid">
       <div class="reveal">
-        <span class="section-label">05 · Concerts & Live Shows</span>
+        <span class="section-label">03 · Concerts &amp; Live Shows</span>
         <div class="gold-line"></div>
-        <h2>Concert & Live Event Production</h2>
+        <h2>Concert &amp; Live Event Production</h2>
         <p style="margin-top:20px">Full-scale concert production in Chandigarh, Mohali and Panchkula. We handle stage design, sound engineering, lighting rigs, pyrotechnics, laser shows, crowd management and all artist coordination.</p>
         <div class="service-features">
-          <div class="service-feature">Stage design & construction</div>
+          <div class="service-feature">Stage design &amp; construction</div>
           <div class="service-feature">Professional sound engineering</div>
-          <div class="service-feature">LED walls & lighting design</div>
-          <div class="service-feature">Pyrotechnics & laser shows</div>
-          <div class="service-feature">Ticketing & crowd management</div>
+          <div class="service-feature">LED walls &amp; lighting design</div>
+          <div class="service-feature">Pyrotechnics &amp; laser shows</div>
+          <div class="service-feature">Ticketing &amp; crowd management</div>
           <div class="service-feature">Sponsorship coordination</div>
         </div>
         <a href="contact.html" class="btn btn-primary" style="margin-top:32px">Plan My Concert</a>
       </div>
-      <div class="service-visual reveal reveal-delay-2">
-        <span style="font-size:5rem">🎵</span>
-        <span style="font-size:0.8rem;letter-spacing:3px;text-transform:uppercase;color:var(--gold)">Concerts & Shows</span>
+      <div class="service-img reveal reveal-delay-2">
+        <img src="https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&q=80&auto=format&fit=crop" alt="Concert and live event production Chandigarh" loading="lazy">
+        <div class="service-img-overlay"></div>
+        <span class="service-img-label">Concerts &amp; Shows</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 04 · BIRTHDAY -->
+<div id="birthday" class="service-full">
+  <div class="container">
+    <div class="service-full-grid" style="direction:rtl">
+      <div class="reveal" style="direction:ltr">
+        <span class="section-label">04 · Birthdays &amp; Private Parties</span>
+        <div class="gold-line"></div>
+        <h2>Birthday &amp; Private Party Planning</h2>
+        <p style="margin-top:20px">Spectacular birthday celebrations, surprise parties and private gatherings in Chandigarh and Tricity. From kids' themed birthdays to milestone 50th celebrations — every detail planned perfectly.</p>
+        <div class="service-features">
+          <div class="service-feature">Themed décor &amp; installations</div>
+          <div class="service-feature">Kids' birthday parties with entertainment</div>
+          <div class="service-feature">Surprise party planning &amp; execution</div>
+          <div class="service-feature">Live music, DJ &amp; entertainment</div>
+          <div class="service-feature">Custom cakes &amp; catering</div>
+          <div class="service-feature">Venue sourcing in Chandigarh</div>
+        </div>
+        <a href="contact.html" class="btn btn-primary" style="margin-top:32px">Plan My Party</a>
+      </div>
+      <div class="service-img reveal" style="direction:ltr">
+        <img src="https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=800&q=80&auto=format&fit=crop" alt="Birthday party planning Chandigarh Mohali Panchkula" loading="lazy">
+        <div class="service-img-overlay"></div>
+        <span class="service-img-label">Birthday &amp; Parties</span>
       </div>
     </div>
   </div>
@@ -261,40 +266,92 @@ footer{background:var(--black);border-top:1px solid var(--border);padding:80px 0
       <div class="gold-line center"></div>
       <h2>Everything Else We Do</h2>
     </div>
-    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1px;background:var(--border);border:1px solid var(--border)">
-      <div id="decor" style="background:var(--dark2);padding:40px 32px" class="reveal">
-        <span style="font-size:2rem;display:block;margin-bottom:16px">🌸</span>
-        <h3 style="font-size:1.3rem;margin-bottom:10px">Event Décor & Florals</h3>
-        <p style="font-size:0.875rem;color:var(--gray)">Mandap design, floral arrangements, draping and full venue transformation.</p>
+    <div class="mini-services-grid">
+      <div id="decor" class="mini-card reveal">
+        <div class="mini-card-img">
+          <img src="https://images.unsplash.com/photo-1478146059778-26028b07395a?w=600&q=75&auto=format&fit=crop" alt="Event decor and floral arrangements Chandigarh" loading="lazy">
+        </div>
+        <div class="mini-card-body">
+          <h3>Event Décor &amp; Florals</h3>
+          <p>Mandap design, floral arrangements, draping and full venue transformation.</p>
+        </div>
       </div>
-      <div id="dj" style="background:var(--dark2);padding:40px 32px" class="reveal reveal-delay-1">
-        <span style="font-size:2rem;display:block;margin-bottom:16px">🎧</span>
-        <h3 style="font-size:1.3rem;margin-bottom:10px">DJ & Sound Services</h3>
-        <p style="font-size:0.875rem;color:var(--gray)">Professional DJs, quality sound systems and laser shows for any event size.</p>
+      <div id="dj" class="mini-card reveal reveal-delay-1">
+        <div class="mini-card-img">
+          <img src="https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=75&auto=format&fit=crop" alt="DJ and sound services Chandigarh events" loading="lazy">
+        </div>
+        <div class="mini-card-body">
+          <h3>DJ &amp; Sound Services</h3>
+          <p>Professional DJs, quality sound systems and laser shows for any event size.</p>
+        </div>
       </div>
-      <div id="photo" style="background:var(--dark2);padding:40px 32px" class="reveal reveal-delay-2">
-        <span style="font-size:2rem;display:block;margin-bottom:16px">📸</span>
-        <h3 style="font-size:1.3rem;margin-bottom:10px">Photography & Videography</h3>
-        <p style="font-size:0.875rem;color:var(--gray)">Pre-wedding shoots, event coverage and cinematic films by expert photographers.</p>
+      <div id="photo" class="mini-card reveal reveal-delay-2">
+        <div class="mini-card-img">
+          <img src="https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=600&q=75&auto=format&fit=crop" alt="Wedding photography and videography Chandigarh" loading="lazy">
+        </div>
+        <div class="mini-card-body">
+          <h3>Photography &amp; Videography</h3>
+          <p>Pre-wedding shoots, event coverage and cinematic films by expert photographers.</p>
+        </div>
       </div>
-      <div id="catering" style="background:var(--dark2);padding:40px 32px" class="reveal">
-        <span style="font-size:2rem;display:block;margin-bottom:16px">🍽️</span>
-        <h3 style="font-size:1.3rem;margin-bottom:10px">Catering Services</h3>
-        <p style="font-size:0.875rem;color:var(--gray)">Curated menus, live counters and professional hospitality for all events.</p>
+      <div id="catering" class="mini-card reveal">
+        <div class="mini-card-img">
+          <img src="https://images.unsplash.com/photo-1555244162-803834f70033?w=600&q=75&auto=format&fit=crop" alt="Catering services for events in Chandigarh" loading="lazy">
+        </div>
+        <div class="mini-card-body">
+          <h3>Catering Services</h3>
+          <p>Curated menus, live counters and professional hospitality for all events.</p>
+        </div>
       </div>
-      <div style="background:var(--dark2);padding:40px 32px" class="reveal reveal-delay-1">
-        <span style="font-size:2rem;display:block;margin-bottom:16px">🎓</span>
-        <h3 style="font-size:1.3rem;margin-bottom:10px">College Fests</h3>
-        <p style="font-size:0.875rem;color:var(--gray)">Complete college festival management for universities across Chandigarh.</p>
+      <div class="mini-card reveal reveal-delay-1">
+        <div class="mini-card-img">
+          <img src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=600&q=75&auto=format&fit=crop" alt="College fest management Chandigarh universities" loading="lazy">
+        </div>
+        <div class="mini-card-body">
+          <h3>College Fests</h3>
+          <p>Complete college festival management for universities across Chandigarh.</p>
+        </div>
       </div>
-      <div style="background:var(--dark2);padding:40px 32px" class="reveal reveal-delay-2">
-        <span style="font-size:2rem;display:block;margin-bottom:16px">👗</span>
-        <h3 style="font-size:1.3rem;margin-bottom:10px">Fashion Shows</h3>
-        <p style="font-size:0.875rem;color:var(--gray)">Runway setup, backstage management and lighting for fashion events.</p>
+      <div class="mini-card reveal reveal-delay-2">
+        <div class="mini-card-img">
+          <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=75&auto=format&fit=crop" alt="Fashion show management Chandigarh" loading="lazy">
+        </div>
+        <div class="mini-card-body">
+          <h3>Fashion Shows</h3>
+          <p>Runway setup, backstage management and lighting for fashion events.</p>
+        </div>
       </div>
     </div>
   </div>
 </section>
+
+<!-- 05 · CELEBRITY CELEBRATION — LAST -->
+<div id="celebrity" class="service-full" style="background:var(--black)">
+  <div class="container">
+    <div class="service-full-grid">
+      <div class="reveal">
+        <span class="section-label">05 · Celebrity Celebrations</span>
+        <div class="gold-line"></div>
+        <h2>Celebrity Booking &amp; Artist Management</h2>
+        <p style="margin-top:20px">Make your event unforgettable with Bollywood celebrities, musicians, stand-up comedians, sports personalities and influencers. We handle the entire booking, rider management, travel and on-day coordination.</p>
+        <div class="service-features">
+          <div class="service-feature">Bollywood artist &amp; musician bookings</div>
+          <div class="service-feature">Stand-up comedians &amp; anchors</div>
+          <div class="service-feature">Sports personalities &amp; brand ambassadors</div>
+          <div class="service-feature">Social media influencer appearances</div>
+          <div class="service-feature">Contract negotiation &amp; rider management</div>
+          <div class="service-feature">Security &amp; logistics coordination</div>
+        </div>
+        <a href="contact.html" class="btn btn-primary" style="margin-top:32px">Book a Celebrity</a>
+      </div>
+      <div class="service-img reveal reveal-delay-2">
+        <img src="https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=800&q=80&auto=format&fit=crop" alt="Celebrity booking and artist management Chandigarh events" loading="lazy">
+        <div class="service-img-overlay"></div>
+        <span class="service-img-label">Celebrity Celebrations</span>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- CTA -->
 <div class="cta-band">
@@ -303,7 +360,7 @@ footer{background:var(--black);border-top:1px solid var(--border);padding:80px 0
     <p>Get a free consultation and quote for your event in Chandigarh.</p>
     <div class="cta-actions">
       <a href="contact.html" class="btn" style="background:var(--black);color:var(--white)">Get Free Quote</a>
-      <a href="https://wa.me/918837810243?text=Hi%20VR%20Productions!%20I%20want%20to%20enquire%20about%20your%20services." class="btn btn-wa" target="_blank" rel="noopener">WhatsApp Us</a>
+      <a href="https://wa.me/918837810243?text=Hi%20The%20VR%20Production!%20I%20want%20to%20enquire%20about%20your%20services." class="btn btn-wa" target="_blank" rel="noopener">WhatsApp Us</a>
       <a href="tel:+918837810243" class="btn" style="background:rgba(0,0,0,0.2);color:var(--black);border:1px solid rgba(0,0,0,0.3)">📞 +91 88378 10243</a>
     </div>
   </div>
@@ -312,15 +369,37 @@ footer{background:var(--black);border-top:1px solid var(--border);padding:80px 0
 <footer>
   <div class="container">
     <div class="footer-grid">
-      <div class="footer-col"><svg width="160" height="38" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg" style="margin-bottom:20px"><circle cx="90" cy="80" r="52" fill="none" stroke="#C9A84C" stroke-width="1.5"/><circle cx="90" cy="28" r="2.5" fill="#C9A84C"/><circle cx="90" cy="132" r="2.5" fill="#C9A84C"/><circle cx="38" cy="80" r="2.5" fill="#C9A84C"/><circle cx="142" cy="80" r="2.5" fill="#C9A84C"/><text x="90" y="92" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#C9A84C" letter-spacing="2">VR</text><line x1="168" y1="30" x2="168" y2="130" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/><text x="192" y="68" font-family="Georgia,serif" font-size="32" font-weight="700" fill="#FFFFFF" letter-spacing="4">PRODUCTIONS</text><line x1="192" y1="80" x2="560" y2="80" stroke="#C9A84C" stroke-width="0.8" opacity="0.6"/><text x="192" y="104" font-family="Arial,sans-serif" font-size="11" fill="#C9A84C" letter-spacing="5" opacity="0.9">EVENT PLANNING &amp; PRODUCTION · TRICITY</text></svg><p>Chandigarh's premier event management company across Chandigarh, Mohali & Panchkula.</p><p style="margin-top:12px"><a href="tel:+918837810243" style="color:var(--gold)">+91 88378 10243</a></p></div>
-      <div class="footer-col"><h4>Services</h4><a href="#weddings">Wedding Planning</a><a href="#corporate">Corporate Events</a><a href="#celebrity">Celebrity Booking</a><a href="#birthday">Birthday Events</a><a href="#concerts">Concerts</a></div>
+      <div class="footer-col">
+        <svg width="180" height="48" viewBox="0 0 520 140" xmlns="http://www.w3.org/2000/svg" style="margin-bottom:20px">
+          <g transform="translate(50,70) scale(0.38)">
+            <path d="M0,-88 C-18,-65 -18,-38 0,-20 C18,-38 18,-65 0,-88Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+            <path d="M0,88 C-18,65 -18,38 0,20 C18,38 18,65 0,88Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+            <path d="M-88,0 C-65,-18 -38,-18 -20,0 C-38,18 -65,18 -88,0Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+            <path d="M88,0 C65,-18 38,-18 20,0 C38,18 65,18 88,0Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+            <path d="M-62,-62 C-52,-36 -36,-22 -14,-14 C-22,-36 -36,-52 -62,-62Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+            <path d="M62,62 C52,36 36,22 14,14 C22,36 36,52 62,62Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+            <path d="M62,-62 C36,-52 22,-36 14,-14 C36,-22 52,-36 62,-62Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+            <path d="M-62,62 C-36,52 -22,36 -14,14 C-36,22 -52,36 -62,62Z" fill="none" stroke="#C9A84C" stroke-width="3.5"/>
+            <circle cx="0" cy="0" r="16" fill="none" stroke="#C9A84C" stroke-width="2.5"/>
+          </g>
+          <line x1="118" y1="12" x2="118" y2="128" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/>
+          <line x1="130" y1="30" x2="158" y2="30" stroke="#C9A84C" stroke-width="0.8" opacity="0.7"/>
+          <text x="205" y="35" text-anchor="middle" font-family="Georgia,serif" font-size="12" fill="#C9A84C" letter-spacing="5">THE</text>
+          <line x1="252" y1="30" x2="510" y2="30" stroke="#C9A84C" stroke-width="0.8" opacity="0.7"/>
+          <text x="320" y="98" text-anchor="middle" font-family="Georgia,serif" font-size="70" font-weight="700" fill="#C9A84C" letter-spacing="-2">VR</text>
+          <text x="320" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="11.5" fill="#C9A84C" letter-spacing="7">PRODUCTION</text>
+        </svg>
+        <p>Chandigarh's premier event management company across Chandigarh, Mohali &amp; Panchkula.</p>
+        <p style="margin-top:12px"><a href="tel:+918837810243" style="color:var(--gold)">+91 88378 10243</a></p>
+      </div>
+      <div class="footer-col"><h4>Services</h4><a href="#weddings">Wedding Planning</a><a href="#corporate">Corporate Events</a><a href="#concerts">Concerts</a><a href="#birthday">Birthday Events</a><a href="#celebrity">Celebrity Booking</a></div>
       <div class="footer-col"><h4>Pages</h4><a href="index.html">Home</a><a href="gallery.html">Gallery</a><a href="about.html">About</a><a href="testimonials.html">Testimonials</a><a href="contact.html">Contact</a></div>
       <div class="footer-col"><h4>Locations</h4><a href="event-planner-chandigarh.html">Chandigarh</a><a href="wedding-planner-mohali.html">Mohali</a><a href="event-management-panchkula.html">Panchkula</a><a href="corporate-events-tricity.html">Tricity</a></div>
     </div>
-    <div class="footer-bottom"><p>&copy; 2025 VR Productions. Chandigarh, India.</p><div class="social-links"><a href="#" aria-label="Instagram">IG</a><a href="#" aria-label="Facebook">FB</a><a href="https://wa.me/918837810243" aria-label="WhatsApp">WA</a></div></div>
+    <div class="footer-bottom"><p>&copy; 2025 The VR Production. Chandigarh, India.</p><div class="social-links"><a href="#" aria-label="Instagram">IG</a><a href="#" aria-label="Facebook">FB</a><a href="https://wa.me/918837810243" aria-label="WhatsApp">WA</a></div></div>
   </div>
 </footer>
-<a href="https://wa.me/918837810243?text=Hi%20VR%20Productions!%20I%20want%20to%20enquire%20about%20your%20event%20services." class="wa-float" target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
+<a href="https://wa.me/918837810243?text=Hi%20The%20VR%20Production!%20I%20want%20to%20enquire%20about%20your%20event%20services." class="wa-float" target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
 <script>
 const navbar=document.getElementById('navbar');window.addEventListener('scroll',()=>navbar.classList.toggle('scrolled',window.scrollY>60),{passive:true});
 const hamburger=document.getElementById('hamburger'),navLinks=document.getElementById('navLinks');
